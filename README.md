@@ -1,6 +1,6 @@
 **Background**
 ---
-A lending company has a problem where it requires efficiency and speed in receiving loans from each customer.As a Data Science Intern from ID/X Partners, we will to process data and create models that are able to predict and assess optimal credit applications and predict existing risks. To facilitate the assessment, we will create a credit score based on the logistic regression model. Finally, we will provide solutions for lending companies how the insights we get.
+A lending company has a problem where it requires efficiency and speed in receiving loans from each customer. As a Data Science Intern from ID/X Partners, we will to process data and create models that are able to predict and assess optimal credit applications and predict existing risks. To facilitate the assessment, we will create a credit score based on the logistic regression model. Finally, we will provide solutions for lending companies how the insights we get.
 
 **Data Pre-processing**
 ---
@@ -27,8 +27,7 @@ A lending company has a problem where it requires efficiency and speed in receiv
 ![10 HIGH FEATURE](https://user-images.githubusercontent.com/68262798/194567844-1e106237-dfc7-4af6-99f6-58ffe4556cfd.png)
 ![10 LOW FEATURE](https://user-images.githubusercontent.com/68262798/194567867-c7d69508-2160-4767-be7c-ba60672facfc.png)
 
-5. Predict how much credit score each customer get based on scorecard 
-For More Detail Credit Score Result [Here](https://docs.google.com/spreadsheets/d/1n1XGrjIUdIzlcMO4ZVTzmXzuvRpE2bgN1qCO-qTNUx4/edit?usp=sharing)
+5. Predict how much credit score each customer get based on scorecard. Credit Score Result [Here](https://docs.google.com/spreadsheets/d/1n1XGrjIUdIzlcMO4ZVTzmXzuvRpE2bgN1qCO-qTNUx4/edit?usp=sharing)
 
 
 **Business Insight**
