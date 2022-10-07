@@ -41,7 +41,7 @@ d bad loan emp length](https://user-images.githubusercontent.com/68262798/194567
 
 **Summary**
 ---
-1.Loan Amount; The amount of the loan given is related to the interest rate that must be paid. The larger the loan amount, the higher the interest rate that must be paid.Loan amount more than 28100 not recommended to offer for customer.
+1. Loan Amount; The amount of the loan given is related to the interest rate that must be paid. The larger the loan amount, the higher the interest rate that must be paid.Loan amount more than 28100 not recommended to offer for customer.
 2. Last Payment Amount; More payment amount that customer take, lower the risk of the customer becoming a bad loan. Lending Companies can set a minimum amount that must be paid starting from 1500 for the amount of payment each time it is due.
 3. Payment Time; The longer time that must be paid by the customer, the higher the risk of the customer becoming a bad loan. Limiting the payment time max 6 years can reduce the risk of bad loans
 4. Interest Rate; More interest rate that customer take, increasing more bad loan rate. Ideally if lending companies want to keep bad loan low, they can offer interest rate below 14%. Lending companies must avoid to offer loan with interest rate more than 20%.
