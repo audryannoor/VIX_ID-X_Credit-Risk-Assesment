@@ -28,6 +28,7 @@ A lending company has a problem where it requires efficiency and speed in receiv
 ![10 LOW FEATURE](https://user-images.githubusercontent.com/68262798/194567867-c7d69508-2160-4767-be7c-ba60672facfc.png)
 
 5. Predict how much credit score each customer get based on scorecard. Credit Score Result [Here](https://docs.google.com/spreadsheets/d/1n1XGrjIUdIzlcMO4ZVTzmXzuvRpE2bgN1qCO-qTNUx4/edit?usp=sharing)
+![Screenshot (189)](https://user-images.githubusercontent.com/68262798/194569911-8a5b6ecd-19f3-48ca-99fb-7426455493e2.png)
 
 
 **Business Insight**
