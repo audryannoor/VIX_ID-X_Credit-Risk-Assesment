@@ -5,9 +5,9 @@ A lending company has a problem where it requires efficiency and speed in receiv
 **Data Pre-processing**
 ---
 1. Handling Missing Value
-2. Feature Encoding
-3. Feature Engineering Using Weight of Evidence and Information Value
-4. Feature Selection
+2. Feature Engineering Using Weight of Evidence and Information Value
+3. Feature Selection
+4. Feature Encoding
 5. Imbalance Data Handling
 
 **Modelling**
